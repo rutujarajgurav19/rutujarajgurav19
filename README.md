@@ -1,4 +1,4 @@
-##Hi, I'm Rutuja ✨<br>
+Hi, I'm Rutuja ✨<br>
 🤓MCA student at Dr. D. Y. Patil School of  Science and Technology, Tathawade-Pune .<br>
 🖥️ Passionate about building secure and scalable applications.<br>
 👩‍💻 Skilled in Java, Spring Boot, Hibernate, MySQL, and  full stack  Java development.<br>
